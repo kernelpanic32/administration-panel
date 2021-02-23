@@ -1,0 +1,24 @@
+{
+  "name": "Huayna Outdoors",
+  "short_name": "Huayna Outdoors",
+  "description": "Encontrá lo que buscas, articulos de camping y más.",
+  "scope": ".",
+  "start_url": "/panel/",
+  "orientation": "portrait",
+  "display": "standalone",
+  "background_color": "#f2f2f2",
+  "theme_color": "#f2f2f2",
+    "icons": [
+  	{
+		"src": "img/huayna-512x512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+	},
+	{
+	    "src": "img/huayna-192x192.png",
+	    "sizes": "192x192",
+	    "type": "image/png",
+      "purpose": "any maskable"
+  	}	
+	]  
+}
